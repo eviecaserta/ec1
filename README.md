@@ -4,7 +4,7 @@
 <param ve-config 
        title="9/11 Memorial Museum"
        author="Evelyn Caserta"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/File:9-11_Memorial_and_Museum_(28815276064).jpg" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/f/fc/9-11_Memorial_and_Museum_%2828815276064%29.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
